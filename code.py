@@ -8,7 +8,7 @@ import json
 from adafruit_magtag.magtag import MagTag
 
 SHOW_INTRO = True   # Whether to show the digikey logo + intro text
-PLAY_SONG = True    # shhhh!
+PLAY_SONG = False    # shhhh!
 DEFAULT_SIGN = None  # Set to None to pick, or "Scorpio" (etc) to skip
 SHOW_SIGN_IMAGE = True  # skip showing the name of the sign/graphic
 PLAINFONT = False     # Use built in font if True
